@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/rishab/AndroidStudioProjects/SpeechToText-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b1a24faed3805e0d33ed933201667a3d00fcc8b3">
+        <dex dex="/home/rishab/AndroidStudioProjects/SpeechToText-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_26a0f02baf3d2fafada531a58381b8e06e874e61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rishab/AndroidStudioProjects/SpeechToText-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/rishab/AndroidStudioProjects/SpeechToText-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b55d7797d10ddcec614c68e534ba01b302f1a770/classes.dex" />
+    </item>
+
+</items>
